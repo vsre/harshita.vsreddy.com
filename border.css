@@ -1,0 +1,26 @@
+h1{
+    background-color: antiquewhite ;
+    border: 3px solid red;
+    text-align: center; 
+    font-size: 38px; 
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+     color: blue ; 
+     padding:1px; 
+     font-weight: 1000;
+}
+*{
+    padding:0px;
+}
+body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: rgb(245, 229, 197);
+}
+p{
+    text-align: justify;
+}
+ul{
+    list-style-type: none;
+}
